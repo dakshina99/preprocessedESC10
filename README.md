@@ -1,4 +1,4 @@
-# ProcessedUrbanSound8K
+# ProcessedESC10
 
 1. Set sample rate of all the wav files to 20kHz
 2. All the clips set to 100k samples by padding and croping clips
